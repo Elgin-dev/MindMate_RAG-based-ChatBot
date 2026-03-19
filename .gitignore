@@ -1,0 +1,16 @@
+# Private API Keys
+.env
+
+# Python Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Local Database (Too heavy for GitHub)
+db/
+
+# Local Ollama models (if any)
+models/
+
+# OS specific files
+.DS_Store
