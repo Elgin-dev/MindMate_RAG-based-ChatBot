@@ -1,22 +1,14 @@
-# Core AI Orchestration
 langchain
 langchain-community
 langchain-core
-
-# Document Processing
-pypdf
-tiktoken
-python-dotenv
-
-# Vector Database (The Memory)
-chromadb
+langchain-ollama
 langchain-chroma
 langchain-huggingface
+pypdf
+python-dotenv
+fastapi
+uvicorn
+python-multipart
 sentence-transformers
-
-# Brains (LLM Providers)
-langchain-google-genai
-langchain-ollama
-
-# Professional UI
-streamlit
+chromadb
+rank_bm25
